@@ -13,5 +13,5 @@
    * Entre 15 e 20 pessoas passam para a próxima etapa.
 
 
-[lista de tarefas](https://github.com/thisouzadev/lista-de-tarefas)
+[lista de tarefas](https://github.com/thisouzadev/lista-de-tarefas) <br/>
 [filtro](https://github.com/Lorenalgm/DevChallenge/compare/master...thisouzadev:DevChallenge:fix-responsive)
